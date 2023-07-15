@@ -1,0 +1,14 @@
+C:\Users\AdminAbdullahFedia\source\repos\WebApplicationPost\TouristСenterLibrary\bin\Debug\net6.0\BMILibrary.deps.json
+C:\Users\AdminAbdullahFedia\source\repos\WebApplicationPost\TouristСenterLibrary\bin\Debug\net6.0\BMILibrary.runtimeconfig.json
+C:\Users\AdminAbdullahFedia\source\repos\WebApplicationPost\TouristСenterLibrary\bin\Debug\net6.0\BMILibrary.dll
+C:\Users\AdminAbdullahFedia\source\repos\WebApplicationPost\TouristСenterLibrary\bin\Debug\net6.0\BMILibrary.pdb
+C:\Users\AdminAbdullahFedia\source\repos\WebApplicationPost\TouristСenterLibrary\obj\Debug\net6.0\BMILibrary.csproj.AssemblyReference.cache
+C:\Users\AdminAbdullahFedia\source\repos\WebApplicationPost\TouristСenterLibrary\obj\Debug\net6.0\BMILibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdminAbdullahFedia\source\repos\WebApplicationPost\TouristСenterLibrary\obj\Debug\net6.0\BMILibrary.AssemblyInfoInputs.cache
+C:\Users\AdminAbdullahFedia\source\repos\WebApplicationPost\TouristСenterLibrary\obj\Debug\net6.0\BMILibrary.AssemblyInfo.cs
+C:\Users\AdminAbdullahFedia\source\repos\WebApplicationPost\TouristСenterLibrary\obj\Debug\net6.0\BMILibrary.csproj.CoreCompileInputs.cache
+C:\Users\AdminAbdullahFedia\source\repos\WebApplicationPost\TouristСenterLibrary\obj\Debug\net6.0\BMILibrary.dll
+C:\Users\AdminAbdullahFedia\source\repos\WebApplicationPost\TouristСenterLibrary\obj\Debug\net6.0\refint\BMILibrary.dll
+C:\Users\AdminAbdullahFedia\source\repos\WebApplicationPost\TouristСenterLibrary\obj\Debug\net6.0\BMILibrary.pdb
+C:\Users\AdminAbdullahFedia\source\repos\WebApplicationPost\TouristСenterLibrary\obj\Debug\net6.0\BMILibrary.genruntimeconfig.cache
+C:\Users\AdminAbdullahFedia\source\repos\WebApplicationPost\TouristСenterLibrary\obj\Debug\net6.0\ref\BMILibrary.dll

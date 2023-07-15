@@ -1,0 +1,14 @@
+E:\WebTouristCenter\WebServer\TouristСenterLibrary\bin\Debug\net6.0\TouristСenterLibrary.deps.json
+E:\WebTouristCenter\WebServer\TouristСenterLibrary\bin\Debug\net6.0\TouristСenterLibrary.runtimeconfig.json
+E:\WebTouristCenter\WebServer\TouristСenterLibrary\bin\Debug\net6.0\TouristСenterLibrary.dll
+E:\WebTouristCenter\WebServer\TouristСenterLibrary\bin\Debug\net6.0\TouristСenterLibrary.pdb
+E:\WebTouristCenter\WebServer\TouristСenterLibrary\obj\Debug\net6.0\TouristСenterLibrary.csproj.AssemblyReference.cache
+E:\WebTouristCenter\WebServer\TouristСenterLibrary\obj\Debug\net6.0\TouristСenterLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebTouristCenter\WebServer\TouristСenterLibrary\obj\Debug\net6.0\TouristСenterLibrary.AssemblyInfoInputs.cache
+E:\WebTouristCenter\WebServer\TouristСenterLibrary\obj\Debug\net6.0\TouristСenterLibrary.AssemblyInfo.cs
+E:\WebTouristCenter\WebServer\TouristСenterLibrary\obj\Debug\net6.0\TouristСenterLibrary.csproj.CoreCompileInputs.cache
+E:\WebTouristCenter\WebServer\TouristСenterLibrary\obj\Debug\net6.0\TouristСenterLibrary.dll
+E:\WebTouristCenter\WebServer\TouristСenterLibrary\obj\Debug\net6.0\refint\TouristСenterLibrary.dll
+E:\WebTouristCenter\WebServer\TouristСenterLibrary\obj\Debug\net6.0\TouristСenterLibrary.pdb
+E:\WebTouristCenter\WebServer\TouristСenterLibrary\obj\Debug\net6.0\TouristСenterLibrary.genruntimeconfig.cache
+E:\WebTouristCenter\WebServer\TouristСenterLibrary\obj\Debug\net6.0\ref\TouristСenterLibrary.dll

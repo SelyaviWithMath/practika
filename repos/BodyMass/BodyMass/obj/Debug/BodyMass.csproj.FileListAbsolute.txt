@@ -1,0 +1,7 @@
+C:\Users\AdminAbdullahFedia\source\repos\BodyMass\BodyMass\bin\Debug\BodyMass.exe.config
+C:\Users\AdminAbdullahFedia\source\repos\BodyMass\BodyMass\bin\Debug\BodyMass.exe
+C:\Users\AdminAbdullahFedia\source\repos\BodyMass\BodyMass\bin\Debug\BodyMass.pdb
+C:\Users\AdminAbdullahFedia\source\repos\BodyMass\BodyMass\obj\Debug\BodyMass.csproj.AssemblyReference.cache
+C:\Users\AdminAbdullahFedia\source\repos\BodyMass\BodyMass\obj\Debug\BodyMass.csproj.CoreCompileInputs.cache
+C:\Users\AdminAbdullahFedia\source\repos\BodyMass\BodyMass\obj\Debug\BodyMass.exe
+C:\Users\AdminAbdullahFedia\source\repos\BodyMass\BodyMass\obj\Debug\BodyMass.pdb

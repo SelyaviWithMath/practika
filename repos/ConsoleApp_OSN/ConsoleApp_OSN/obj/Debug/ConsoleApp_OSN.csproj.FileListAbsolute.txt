@@ -1,0 +1,7 @@
+C:\Users\AdminAbdullahFedia\source\repos\ConsoleApp_OSN\ConsoleApp_OSN\bin\Debug\ConsoleApp_OSN.exe.config
+C:\Users\AdminAbdullahFedia\source\repos\ConsoleApp_OSN\ConsoleApp_OSN\bin\Debug\ConsoleApp_OSN.exe
+C:\Users\AdminAbdullahFedia\source\repos\ConsoleApp_OSN\ConsoleApp_OSN\bin\Debug\ConsoleApp_OSN.pdb
+C:\Users\AdminAbdullahFedia\source\repos\ConsoleApp_OSN\ConsoleApp_OSN\obj\Debug\ConsoleApp_OSN.csproj.AssemblyReference.cache
+C:\Users\AdminAbdullahFedia\source\repos\ConsoleApp_OSN\ConsoleApp_OSN\obj\Debug\ConsoleApp_OSN.csproj.CoreCompileInputs.cache
+C:\Users\AdminAbdullahFedia\source\repos\ConsoleApp_OSN\ConsoleApp_OSN\obj\Debug\ConsoleApp_OSN.exe
+C:\Users\AdminAbdullahFedia\source\repos\ConsoleApp_OSN\ConsoleApp_OSN\obj\Debug\ConsoleApp_OSN.pdb
